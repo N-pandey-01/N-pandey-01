@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh pandey</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 
-<img alt="coding logo" align="right" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img alt="coding logo" align="right" width="300px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pandey-01&label=Profile%20views&color=0e75b6&style=flat" alt="n-pandey-01" /> </p>
 
