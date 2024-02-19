@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **niteshpandey8969@gmail.com**
 
-- ⚡ Fun fact **I am cool boy😉**
+- ⚡ **I am cool boy😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
