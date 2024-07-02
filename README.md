@@ -1,6 +1,7 @@
+![logo](https://github.com/N-pandey-01/Banner.png/blob/main/Nitesh%20Pandey.png)
 <h1 align="center">Hi 👋, I'm Nitesh pandey</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img aline="right alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pandey-01&label=Profile%20views&color=0e75b6&style=flat" alt="n-pandey-01" /> </p>
 
 - 🔭 I’m currently Studying Computer Science [About-Me](https://n-pandey-01.github.io/About-me/)
@@ -28,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-pandey-01&show_icons=true&locale=en" alt="n-pandey-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-pandey-01&" alt="n-pandey-01" /></p>
-
