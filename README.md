@@ -1,7 +1,7 @@
-![logo](https://github.com/N-pandey-01/Banner.png/blob/main/Nitesh%20Pandey.png)
+![logo](https://github.com/N-pandey-01/Banner/blob/main/reyal%20banner.png)
 <h1 align="center">Hi 👋, I'm Nitesh pandey</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img align="right" alt="coding" width="500" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+<img alt="coding logo" align="right" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pandey-01&label=Profile%20views&color=0e75b6&style=flat" alt="n-pandey-01" /> </p>
 
 - 🔭 I’m currently Studying Computer Science [About-Me](https://n-pandey-01.github.io/About-me/)
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **niteshpandey8969@gmail.com**
 
-- ⚡ Fun fact **I am cool boy😉**
+- ⚡  **I am cool boy😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
