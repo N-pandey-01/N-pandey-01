@@ -1,4 +1,4 @@
-![logo](https://github.com/N-pandey-01/BANNER/blob/main/2.png)
+![logo](https://github.com/N-pandey-01/BANNER/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Nitesh pandey</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 <img alt="coding logo" align="right" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
